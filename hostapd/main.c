@@ -452,7 +452,8 @@ static void show_version(void)
 		"User space daemon for IEEE 802.11 AP management,\n"
 		"IEEE 802.1X/WPA/WPA2/EAP/RADIUS Authenticator\n"
 		"Copyright (c) 2002-2016, Jouni Malinen <j@w1.fi> "
-		"and contributors\n");
+		"and contributors\n"
+		"[PATCH BY @purwowd]\n");
 }
 
 
